@@ -262,16 +262,6 @@ CustomTkinter	5.2.0	Interface gráfica moderna
 Pillow	10.1.0	Manipulação de imagens
 PyInstaller	6.3.0	Criação do executável
 ImageMagick	7.x	Engine de conversão
-📝 Licença
-Este projeto é open-source sob a licença MIT. Sinta-se livre para:
-
-✅ Usar comercialmente
-
-✅ Modificar e adaptar
-
-✅ Distribuir
-
-✅ Sub-licenciar
 
 Atribuição é apreciada, mas não obrigatória.
 
